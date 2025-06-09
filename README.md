@@ -23,7 +23,7 @@ A Streamlit-based web application that uses AI to parse and analyze resumes in P
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Jagrit2002/resume-parser.git
+git clone https://github.com/Jagrit2002/Resume-Parser.git
 cd resume-parser
 ```
 
