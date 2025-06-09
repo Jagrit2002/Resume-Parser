@@ -1,0 +1,19 @@
+Section,Value,Degree,Institution,Location,Years Attended,GPA,Title,Company,Year,Description
+Name,Jagrit Joshi,,,,,,,,,
+Email,jagritjoshi20@gmail.com,,,,,,,,,
+Phone Number,+91 6395789100,,,,,,,,,
+LinkedIn,,,,,,,,,,
+Education,,B.Tech in Electronics and Communication,National Institute of Technology,"Surat, Gujarat, India",Dec. 2021 – May 2025,9.01,,,,
+Education,,Senior Secondary,Scholars Home School,"Dehradun, Uttarakhand, India",May 2020,,,,,
+Education,,Matric,Scholars Home School,"Dehradun, Uttarakhand, India",May 2018,,,,,
+Experience,,,,,,,Summer Research Internship,"NTNU, Gjovik, Norway",May 2024 - July 2024,
+Experience,,,,,,,Summer Research Internship,"National Physical Laboratory, New Delhi",May 2023 - July 2023,
+Projects,,,,,,,"Image Processing | NTNU, Gjovik, Norway","NTIRE Image Super-Resolution Challenge, 2024",,"The main focus was to super-resolve the Wireless Endoscopy Images four times, enhancing quality and clarity, using the unsupervised approach. We used different Transformers, Generative Adversarial Networks to enhance our images. Also collaborated with a team for the NTIRE challenge which led to a Top-10 finish in the competition. Additionally, our challenge paper was published."
+Projects,,,,,,,Customer Churn Analysis,Data Analytics,,"Developed an end-to-end ETL process using SQL and created a comprehensive Power BI dashboard to analyze customer data across various dimensions.The project involved studying customer churn profiles, identifying key areas for implementing targeted marketing campaigns, and developing Machine Learning models to predict future churners."
+Projects,,,,,,,A Tool For Visualizing Network Time Protocol (NTP) Data,"National Physical Laboratory , New Delhi",,"In this project Django (a Python framework) is used to visualize the data. Utilized SQL database to efficiently store and manage large volumes of data, enabling seamless data manipulation through optimized SQL queries and improving data analysis processes."
+Projects,,,,,,,Mars Rover,"International Rover Design Challenge, 2023 | DRISHTI, SVNIT Surat",,"Collaborated with a team to build a Rover, integrating both Electronics and Artificial Intelligence. Designed detection and classification models using Computer Vision, Machine Learning, and Deep Learning to identify obstacles, directional arrows and objects. Developed and implemented several obstacle avoidance algorithms."
+Projects,,,,,,,Robotic Arm,Flipkart GRiD 5.0,,"Developed a deep-learning model for real-time object detection using OpenCV, Make Sense AI, and transfer learning(YOLO model) which detects boxes and QRs on the boxes using a camera module and labels them."
+Skills,"Programming Languages: C, C++, Python (Pandas, Numpy, Matplotlib)",,,,,,,,,
+Skills,"Frameworks & Tools: Django, OpenCV, PyTorch, TensorFlow",,,,,,,,,
+Skills,"Machine Learning & Deep Learning: Neural Networks, Transformers (Vision Transformers, Video Vision Transformers), Generative Adversarial Networks, Diffusion Models",,,,,,,,,
+Skills,"Image Processing: Computer Vision, Image Super-Resolution, Image Classification, Object Detection",,,,,,,,,
